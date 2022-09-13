@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "paper_lantern")(type "KiCad")(uri "${KIPRJMOD}/footprints/paper_lantern.pretty")(options "")(descr ""))
+)
